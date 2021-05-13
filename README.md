@@ -23,9 +23,9 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 Additional Information
 -------------------------
 
-| Supported Patch:  |    9.0.2                                                   |
+| Supported Patch:  |    9.0.5                                                   |
 |-------------------|:-----------------------------------------------------------|
 | Discord:          | https://discord.gg/TnYASnMmFm                              |
 | Website:          | https://wowhellgarve.com                                   |
 |-------------------|:-----------------------------------------------------------|
-| Realmlist:        | SET portal    "play.wowhellgarve.com"              
+| Realmlist:        | SET portal    "l2hellgarve.ddns.net"              
