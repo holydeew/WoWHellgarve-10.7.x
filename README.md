@@ -23,7 +23,7 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 Additional Information
 -------------------------
 
-| Supported Patch:  |    9.1                                               |
+| Supported Patch:  |    9.1       Build : 40120                                 |
 |-------------------|:-----------------------------------------------------------|
 | Discord:          | https://discord.gg/TnYASnMmFm                              |
 | Website:          | https://wowhellgarve.com                                   |
