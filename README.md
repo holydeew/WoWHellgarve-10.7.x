@@ -1,4 +1,4 @@
-# WoWHellgarve 9.1.5 Build : 40906
+# WoWHellgarve 9.1.5 
 Hellgarve-Project
 How to use the bugtracker?
 -------------------------
@@ -23,7 +23,7 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 Additional Information
 -------------------------
 
-| Supported Patch:  |    9.1.5       Build : 40906                            |
+| Supported Patch:  |    9.1.5                                |
 |-------------------|:-----------------------------------------------------------|
 | Discord:          | https://discord.gg/TnYASnMmFm                              |
 | Website:          | https://wowhellgarve.com                                   |
