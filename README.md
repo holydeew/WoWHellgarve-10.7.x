@@ -13,12 +13,14 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
  - Write your reports title according to the format:<br>
  
  Example issue report titles:
-  * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!
-  * `[NPC]` Magistrix Erona<br>
-  * `[Spell][Mage]` Fireball
-  * `[Npc][Drop]` Ghostclaw Lynx
+  * `[QuestId][Azuremyst Isle]` Red Snapper - Very Tasty!
+  * `[NPCId]` Magistrix Erona<br>
+  * `[SpellId][Mage]` Fireball
+  * `[NpcId][DropId]` Ghostclaw Lynx
   * `[Web]` 404 error
 
+Remember:
+To find IDS easier search here -> https://www.wowhead.com or use a InGame-ADDON.
 
 Additional Information
 -------------------------
