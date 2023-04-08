@@ -1,4 +1,4 @@
-# WoWHellgarve 9.2.x
+# WoWHellgarve 10.7.x
 Hellgarve-Project
 How to use the bugtracker?
 -------------------------
@@ -25,9 +25,9 @@ To find IDS easier search here -> https://www.wowhead.com or use a InGame-ADDON.
 Additional Information
 -------------------------
 
-| Supported Patch:  |    9.2.x                                |
+| Supported Patch:  |    10.7.x                                |
 |-------------------|:-----------------------------------------------------------|
-| Discord:          | https://discord.gg/TnYASnMmFm                              |
+| Discord:          | https://discord.gg/hellgarve-international-wow-servers-754462868665270293 |
 | Website:          | https://wowhellgarve.com                                   |
 |-------------------|:-----------------------------------------------------------|
 | Realmlist:        | SET portal    "l2hellgarve.ddns.net"              
