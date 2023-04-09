@@ -1,4 +1,4 @@
-# WoWHellgarve 10.7.x
+# WoWHellgarve 10.0.7
 Hellgarve-Project
 How to use the bugtracker?
 -------------------------
@@ -25,7 +25,7 @@ To find IDS easier search here -> https://www.wowhead.com or use a InGame-ADDON.
 Additional Information
 -------------------------
 
-| Supported Patch:  |    10.7.x                                |
+| Supported Patch:  |    10.0.7                                |
 |-------------------|:-----------------------------------------------------------|
 | Discord:          | https://discord.gg/hellgarve-international-wow-servers-754462868665270293 |
 | Website:          | https://wowhellgarve.com                                   |
